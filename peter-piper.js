@@ -1,6 +1,6 @@
 /**
  * peter-piper.js
- * ==============
+ * ============== 000
  * 
  * Count the number of times a capital `P` or lowercase `p` shows up in the
  * Peter Piper tongue twister.
