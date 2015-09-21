@@ -19,6 +19,14 @@ peterpiper += "Where's the peck of pickled peppers Peter Piper picked?";
 
 var counter = 0;
 
+
+for (var i = 0;i <peterpiper.length; i++) {
+    if (peterpiper[i].toLowerCase() == 'p') {
+        counter++;
+    }
+}
+
+
 // TODO: Count the number of times an uppercase P or lowercase p character
 //       occurs in the `peterpiper` string.
 
